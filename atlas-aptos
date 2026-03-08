@@ -1,0 +1,52 @@
+# Atlas Web3 Infrastructure
+
+Developer APIs for accessing Aptos blockchain data.
+
+## Overview
+
+Atlas Web3 Infrastructure provides developer-friendly APIs that allow applications to easily access and process data from the Aptos blockchain.
+
+The goal of the project is to simplify blockchain development by offering reliable data pipelines and indexing tools.
+
+## Features
+
+- Aptos blockchain indexing
+- REST APIs for developers
+- scalable data pipelines
+- developer SDK tools
+
+## Use Cases
+
+- blockchain explorers
+- DeFi platforms
+- NFT marketplaces
+- Web3 applications
+
+## Tech Stack
+
+- Aptos
+- Node.js
+- Express
+- decentralized storage integrations
+
+## Project Status
+
+Prototype stage.
+
+Currently testing data indexing pipelines and building developer APIs.
+
+## Roadmap
+
+Phase 1
+- blockchain indexing engine
+
+Phase 2
+- developer APIs
+- SDK tools
+
+Phase 3
+- scalable infrastructure services
+
+## License
+
+MIT
